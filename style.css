@@ -1,0 +1,29 @@
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    margin: 0px;
+}
+.icons > h1{
+    margin: 0;
+}
+.product_row1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    gap: 20px;
+    padding: 20px;
+}
+.product input
+{
+    margin-top: 5px;
+}
+
+.product img{
+    width: 170px;
+    height: 140px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
